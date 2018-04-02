@@ -33,4 +33,11 @@ class ViewController: UIViewController {
         
     }
     
+    @IBAction func showMessage3(sender: UIButton) {
+        let alertController = UIAlertController(title: "BFF List", message: "Zakk 🦔", preferredStyle: UIAlertControllerStyle.alert)
+        alertController.addAction(UIAlertAction(title: ":)", style: UIAlertActionStyle.default, handler: nil))
+        present(alertController, animated: true, completion: nil)
+        
+    }
+    
 }
