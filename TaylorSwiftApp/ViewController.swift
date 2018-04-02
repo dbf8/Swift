@@ -19,7 +19,18 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    @IBAction func showMessage(sender: UIButton) {
+        let alertController = UIAlertController(title: "BFF List", message: "Angela 🐶, Meg 🙊, Jeff ⚽️", preferredStyle: UIAlertControllerStyle.alert)
+        alertController.addAction(UIAlertAction(title: ":)", style: UIAlertActionStyle.default, handler: nil))
+        present(alertController, animated: true, completion: nil)
+    }
 
-
+    @IBAction func showMessage2(sender: UIButton) {
+        let alertController = UIAlertController(title: "BFF List", message: "Laura 🐶, Jonathan 🙊", preferredStyle: UIAlertControllerStyle.alert)
+        alertController.addAction(UIAlertAction(title: ":)", style: UIAlertActionStyle.default, handler: nil))
+        present(alertController, animated: true, completion: nil)
+        
+    }
+    
 }
-
