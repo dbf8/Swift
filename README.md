@@ -1,6 +1,4 @@
-## (Taylor) Swifting through the Universe
-
-## A Swift Tour
+## (Taylor) Swifting through the Universe: A Swift Tour
 
 ### A Swift Guide  
 * Why did you choose this subject?  
