@@ -21,7 +21,7 @@
 
 * What are the biggest conceptual hurdles (if any) you encountered when researching this?
 
-* What resources do you recommend for interested students?
+* What resources do you recommend for interested students?  
   Swift Playgrounds  
   [A Swift Tour](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html)  
   [App Coda: Learn Swift](https://www.appcoda.com/learnswift/)
