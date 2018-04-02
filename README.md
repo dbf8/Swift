@@ -11,15 +11,17 @@
   It is mainly used for developing iOS applications  
 * What are the alternatives?
   Objective-C  
-* What is it similar to, if anything?
+* What is it similar to, if anything?  
   C++, Objective-C  
-* What is the history of this technology?
+* What is the history of this technology?  
   It first appeared in 2014, intending to be an easier way to to code iOS, tvOS, and OS Apps.  
-* Who built it and why?
+* Who built it and why?  
   Apple created it to streamline the coding process  
-* What is your opinion on the technology after having built something with it?
+* What is your opinion on the technology after having built something with it?  
+  Daniel: It's so cool. Way easier than I expected.
 
 * What are the biggest conceptual hurdles (if any) you encountered when researching this?
+  Daniel: plenty, but non specifically.
 
 * What resources do you recommend for interested students?  
   Swift Playgrounds  
