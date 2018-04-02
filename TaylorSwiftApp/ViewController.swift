@@ -2,17 +2,25 @@
 //  ViewController.swift
 //  TaylorSwiftApp
 //
-//  Created by Daniel Freudberg on 4/2/18.
-//  Copyright © 2018 Daniel Freudberg. All rights reserved.
+//  Created by Daniel Freudberg + Timmy Le on 4/2/18.
+//  Copyright © 2018 Daniel Freudberg + Timmy Le. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
 
+//    override func viewDidLoad() {
+//
+//
+//        super.viewDidLoad()
+//            self.view.backgroundColor = UIColor(patternImage: UIImage(named: "liltaytay.png"))
+//        // Do any additional setup after loading the view, typically from a nib.
+//    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+//        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "liltaytay.png"))
     }
 
     override func didReceiveMemoryWarning() {
@@ -27,7 +35,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func showMessage2(sender: UIButton) {
-        let alertController = UIAlertController(title: "BFF List", message: "Laura 🐶, Jonathan 🙊", preferredStyle: UIAlertControllerStyle.alert)
+        let alertController = UIAlertController(title: "BFF List", message: "Row 3!!! Laura 🐶, Jonathan 🍕", preferredStyle: UIAlertControllerStyle.alert)
         alertController.addAction(UIAlertAction(title: ":)", style: UIAlertActionStyle.default, handler: nil))
         present(alertController, animated: true, completion: nil)
         
