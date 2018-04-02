@@ -20,7 +20,7 @@
 * What is your opinion on the technology after having built something with it?  
   Daniel: It's so cool. Way easier than I expected.
 
-* What are the biggest conceptual hurdles (if any) you encountered when researching this?
+* What are the biggest conceptual hurdles (if any) you encountered when researching this?  
   Daniel: plenty, but non specifically.
 
 * What resources do you recommend for interested students?  
